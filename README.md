@@ -1,2 +1,3 @@
 # Excel-Challenge
-01- Excel Homework
+Penn Data Analysis Bootcamp first assignment
+Analysis of KickStarter project data using pivot tables, vlookup, and chart generation
